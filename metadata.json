@@ -1,0 +1,6 @@
+{
+  "name": "My Literary Journey: A Great Books Digital Portfolio",
+  "description": "An archival digital website portfolio showcasing seven literary analyses, a favorite masterpiece study, learning synthesis, and personal reflections for Great Books.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
